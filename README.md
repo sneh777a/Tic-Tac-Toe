@@ -14,8 +14,6 @@ This app brings the classic game to your **browser**, so you can play anywhere, 
 - Two-player game (X and O)  
 - Detects a **winner** or a **draw** automatically  
 - Easy-to-use and responsive design  
-- Works completely in the browser — **no backend needed**  
-
 ---
 
 ## How to Play
@@ -27,8 +25,7 @@ This app brings the classic game to your **browser**, so you can play anywhere, 
 ---
 
 ## Live Demo
-Check it out here: [Your GitHub Pages Link](https://yourusername.github.io/Tic-Tac-Toe/)  
-
+Check it out here:  https://sneh777a.github.io/Tic-Tac-Toe/
 ---
 
 ## Tech Used
@@ -40,5 +37,6 @@ Check it out here: [Your GitHub Pages Link](https://yourusername.github.io/Tic-T
 
 Enjoy playing! 🎉
 ﻿# Tic-Tac-Toe
+
 
 
